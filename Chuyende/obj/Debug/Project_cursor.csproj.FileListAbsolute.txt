@@ -1,0 +1,37 @@
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\bin\Debug\N16DCCN169_NguyenTangTrung.exe.config
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.exe
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.pdb
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\obj\Debug\Project_cursor.csprojResolveAssemblyReference.cache
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.FrmDangNhap.resources
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.FrmGiaoDich.resources
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.Properties.Resources.resources
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\obj\Debug\Project_cursor.csproj.GenerateResource.Cache
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\bin\Debug\N16DCCN169_NguyenTangTrung.exe
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\bin\Debug\N16DCCN169_NguyenTangTrung.pdb
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.Form1.resources
+G:\HKII-Nam4\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.FrmGD.resources
+C:\Users\NGUYEN BAO NGOC\Desktop\Tạm\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\bin\Debug\N16DCCN169_NguyenTangTrung.exe.config
+C:\Users\NGUYEN BAO NGOC\Desktop\Tạm\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.exe
+C:\Users\NGUYEN BAO NGOC\Desktop\Tạm\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.pdb
+C:\Users\NGUYEN BAO NGOC\Desktop\Tạm\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\obj\Debug\Project_cursor.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN BAO NGOC\Desktop\Tạm\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.Form1.resources
+C:\Users\NGUYEN BAO NGOC\Desktop\Tạm\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.FrmDangNhap.resources
+C:\Users\NGUYEN BAO NGOC\Desktop\Tạm\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.FrmGD.resources
+C:\Users\NGUYEN BAO NGOC\Desktop\Tạm\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.FrmGiaoDich.resources
+C:\Users\NGUYEN BAO NGOC\Desktop\Tạm\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\obj\Debug\N16DCCN169_NguyenTangTrung.Properties.Resources.resources
+C:\Users\NGUYEN BAO NGOC\Desktop\Tạm\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\obj\Debug\Project_cursor.csproj.GenerateResource.Cache
+C:\Users\NGUYEN BAO NGOC\Desktop\Tạm\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\bin\Debug\N16DCCN169_NguyenTangTrung.exe
+C:\Users\NGUYEN BAO NGOC\Desktop\Tạm\ChuyenDeCNPM\N16DCCN169_NguyenTangTrung\bin\Debug\N16DCCN169_NguyenTangTrung.pdb
+C:\Users\NGUYEN BAO NGOC\Desktop\ChuyenDeCNPM\Chuyende\bin\Debug\N16DCCN169_NguyenTangTrung.exe.config
+C:\Users\NGUYEN BAO NGOC\Desktop\ChuyenDeCNPM\Chuyende\obj\Debug\N16DCCN169_NguyenTangTrung.exe
+C:\Users\NGUYEN BAO NGOC\Desktop\ChuyenDeCNPM\Chuyende\obj\Debug\N16DCCN169_NguyenTangTrung.pdb
+C:\Users\NGUYEN BAO NGOC\Desktop\ChuyenDeCNPM\Chuyende\bin\Debug\N16DCCN169_NguyenTangTrung.exe
+C:\Users\NGUYEN BAO NGOC\Desktop\ChuyenDeCNPM\Chuyende\bin\Debug\N16DCCN169_NguyenTangTrung.pdb
+C:\Users\NGUYEN BAO NGOC\Desktop\ChuyenDeCNPM\Chuyende\obj\Debug\Project_cursor.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN BAO NGOC\Desktop\ChuyenDeCNPM\Chuyende\obj\Debug\Project_cursor.csproj.GenerateResource.Cache
+C:\Users\NGUYEN BAO NGOC\Desktop\ChuyenDeCNPM\Chuyende\obj\Debug\Chuyende.Form1.resources
+C:\Users\NGUYEN BAO NGOC\Desktop\ChuyenDeCNPM\Chuyende\obj\Debug\Chuyende.FrmDangNhap.resources
+C:\Users\NGUYEN BAO NGOC\Desktop\ChuyenDeCNPM\Chuyende\obj\Debug\Chuyende.FrmGD.resources
+C:\Users\NGUYEN BAO NGOC\Desktop\ChuyenDeCNPM\Chuyende\obj\Debug\Chuyende.FrmGiaoDich.resources
+C:\Users\NGUYEN BAO NGOC\Desktop\ChuyenDeCNPM\Chuyende\obj\Debug\Chuyende.Properties.Resources.resources
